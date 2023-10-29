@@ -1,7 +1,7 @@
 ![My Git Banner](https://im5.ezgif.com/tmp/ezgif-5-a0a895ec2b.gif)
 
 <h1 align="center">Hi 👋, I'm AJ Harsh Vardhan</h1>
-<h3 align="center">🌌 Exploring the infinite realm of 1s and 0s 🚀 | 💻 Software Developer | 🌐 Web Wizard | 📸 Photography Enthusiast | 🍵 Chai Lover | 📚 Lifelong Learner | Let's create some digital magic together and create the world a better place! 👩‍💻🔮</h3>
+<h3 align="center">🌌 Exploring the infinite realm of 1s and 0s 🚀 | 💻 Software Development | 🌐 Web Wizard | 📸 Photography Enthusiast | Chess Player♟ | 🍵 Chai Lover | 📚 Lifelong Learner | Let's create some digital magic together and create the world a better place! 👩‍💻🔮</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 
