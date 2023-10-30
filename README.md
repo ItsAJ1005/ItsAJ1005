@@ -1,4 +1,4 @@
-![My Git Banner](https://github.com/ItsAJ1005/Random-utilities/blob/a2a526bdb061df5c63b848e3430fdef6a6c02102/github%20gif%20resized.gif)
+[![github-gif-resized.gif](https://i.postimg.cc/6Q4CvDkV/github-gif-resized.gif)](https://postimg.cc/qt0tfZMg)
 
 <h1 align="center">Hi 👋, I'm AJ Harsh Vardhan</h1>
 <h3 align="center">🌌 Exploring the infinite realm of 1s and 0s 🚀 | 💻 Software Development | 🌐 Web Wizard | 📸 Photography Enthusiast | Chess Player♟ | 🍵 Chai Lover | 📚 Lifelong Learner | Let's create some digital magic together and create the world a better place! 👩‍💻🔮</h3>
