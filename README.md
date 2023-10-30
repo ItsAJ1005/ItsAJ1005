@@ -1,4 +1,4 @@
-[![github-gif-resized.gif](https://i.postimg.cc/6Q4CvDkV/github-gif-resized.gif)](https://postimg.cc/qt0tfZMg)
+[![ezgif-4-368dfe27a2.gif](https://i.postimg.cc/vB8WFNn2/ezgif-4-368dfe27a2.gif)](https://postimg.cc/kVZVWwfW)
 
 <h1 align="center">Hi 👋, I'm AJ Harsh Vardhan</h1>
 <h3 align="center">🌌 Exploring the infinite realm of 1s and 0s 🚀 | 💻 Software Development | 🌐 Web Wizard | 📸 Photography Enthusiast | Chess Player♟ | 🍵 Chai Lover | 📚 Lifelong Learner | Let's create some digital magic together and create the world a better place! 👩‍💻🔮</h3>
