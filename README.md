@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ajharsh-portfolio.onrender.com/] (My Portfolio🍪)
 
-- 💬 Ask me about **Data structures, algorithms, blockchain, react, js, oops**
+- 💬 Ask me about **Data structures, algorithms, computer networks, blockchain, react, js, oops**
 
 - 📫 How to reach me **ajharshvardhan123@gmail.com**
 
