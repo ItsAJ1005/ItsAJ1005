@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ajharshvardhan123@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/jaya-harsh-vardhan-alagadapa-143960263] (www.linkedin.com/in/jaya-harsh-vardhan-alagadapa-143960263)
+- 📄 Know about my experiences [www.linkedin.com/in/jaya-harsh-vardhan-alagadapa-143960263](www.linkedin.com/in/jaya-harsh-vardhan-alagadapa-143960263)
 
 - ⚡ Fun fact **I once hiked to the summit of a volcano 🌋 and roasted marshmallows over the lava! 🔥🏞️😄 All of my friends got sick 🤢 by eating those marshmallows 🍡, but that's a story for another time. 😉**
 
