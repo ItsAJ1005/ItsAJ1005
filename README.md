@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I once hiked to the summit of a volcano 🌋 and roasted marshmallows over the lava! 🔥🏞️😄 All of my friends got sick 🤢 by eating those marshmallows 🍡, but that's a story for another time. 😉**
 
-<img align="right" src="https://komarev.com/ghpvc/?username=ItsAJ1005&abbreviated=true&style=flat&color=082157">
+<img align="right" src="https://komarev.com/ghpvc/?username=ItsAJ1005&style=flat&color=082157">
 
 <h3 align="left">Connect with me:</h3>
 
