@@ -30,7 +30,7 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/jaya-harsh-vardhan-alagadapa-143960263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaya harsh vardhan alagadapa" height="30" width="40" /></a>
-    <a href="https://instagram.com/harsh_vardhan1005 / everlastingmoments.oz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_vardhan1005 / everlastingmoments.oz" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/everlastingmoments.oz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_vardhan1005 / everlastingmoments.oz" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/ajharsh_itsme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ajharsh_itsme" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/ajharshvardhan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajharshvardhan11" height="30" width="40" /></a>
     <a href="https://codeforces.com/profile/itsajharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="itsajharsh" height="30" width="40" /></a>
