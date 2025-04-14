@@ -12,11 +12,11 @@
 <h3 align="center">🌌 Exploring the infinite realm of 1s and 0s 🚀 | 💻 Software Development | 🌐 Web Wizard | 📸 Photography Enthusiast | Chess Player♟ | 🍵 Chai Lover | 📚 Lifelong Learner | Let's create some digital magic together and create the world a better place! 👩‍💻🔮</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
-- 🌱 I’m currently learning **Web development, artificial intelligence, blockchain development**
+- 🌱 I’m currently learning **Web development, system design, cloud, data structures and their implementations**
 
 - 👨‍💻 All of my projects are available at [https://ajharsh-portfolio.onrender.com/] (My Portfolio🍪)
 
-- 💬 Ask me about **Data structures, algorithms, computer networks, blockchain, react, js, oops**
+- 💬 Ask me about **Data structures, algorithms, computer networks, distributed systems, operating systems, web development, oops etc.,**
 
 - 📫 How to reach me **ajharshvardhan123@gmail.com**
 
